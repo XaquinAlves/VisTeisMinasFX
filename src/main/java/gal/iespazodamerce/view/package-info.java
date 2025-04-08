@@ -14,4 +14,4 @@
  *
  * @author Xaquin Alves Gonzalez
  */
-package gal.pazodamerce.visteisminas.view;
+package gal.iespazodamerce.view;

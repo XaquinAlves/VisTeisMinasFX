@@ -1,9 +1,9 @@
-package gal.pazodamerce.visteisminas.view;
+package gal.iespazodamerce.view;
 
 import java.util.Scanner;
 
-import gal.pazodamerce.visteisminas.controller.Game;
-import gal.pazodamerce.visteisminas.model.Cell;
+import gal.iespazodamerce.controller.Game;
+import gal.iespazodamerce.model.Cell;
 
 /**
  * Clase que implementa a interface do xogo, en modo texto.

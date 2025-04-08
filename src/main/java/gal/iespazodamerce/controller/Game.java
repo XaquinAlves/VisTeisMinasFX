@@ -1,8 +1,8 @@
-package gal.pazodamerce.visteisminas.controller;
+package gal.iespazodamerce.controller;
 
 import java.util.ArrayList;
 
-import gal.pazodamerce.visteisminas.model.Cell;
+import gal.iespazodamerce.model.Cell;
 
 /**
  * Clase que implementa a funcionalidade do buscaminas, representando unha

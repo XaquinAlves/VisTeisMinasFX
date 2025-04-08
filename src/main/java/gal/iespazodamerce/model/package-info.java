@@ -8,4 +8,4 @@
  *
  * @author Xaquin Alves Gonzalez
  */
-package gal.pazodamerce.visteisminas.model;
+package gal.iespazodamerce.model;

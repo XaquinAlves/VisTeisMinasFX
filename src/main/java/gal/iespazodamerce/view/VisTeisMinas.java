@@ -1,6 +1,6 @@
-package gal.pazodamerce.visteisminas.view;
+package gal.iespazodamerce.view;
 
-import gal.pazodamerce.visteisminas.controller.App;
+import gal.iespazodamerce.controller.App;
 
 public final class VisTeisMinas {
 
